@@ -1,0 +1,11 @@
+server:
+  port: 5000
+
+database:
+  server: 'localhost'
+  username: 'root'
+  password: 'mysql123'
+  name: 'friday_talks_service'
+
+api:
+  default_path: '/api/'
